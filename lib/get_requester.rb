@@ -1,8 +1,8 @@
 # Write your code here
 class GetRequester
   
-def get_response_body
+  def get_response_body
 
-end
+  end
 
 end
