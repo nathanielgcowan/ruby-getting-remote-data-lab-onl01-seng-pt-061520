@@ -10,5 +10,9 @@ class GetRequester
     response = NET::HTTP.get_response(uri)
     response.body
   end
+  
+  def parse_json
+    
+  end
 
 end
