@@ -1,5 +1,6 @@
 # Write your code here
-require 
+require 'open-uri'
+
 class GetRequester
   
   def initialize(url)
